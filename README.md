@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EcoTrack – Personal Carbon Footprint Tracker
 
 EcoTrack is a modern web application designed to help users monitor, analyze, and offset their daily carbon footprint. 
@@ -58,3 +59,6 @@ The application will launch on **http://localhost:5173**.
 4. **Activity Heatmap**: A GitHub contribution grid showing unlogged, low, medium, and high carbon days.
 5. **AI Suggestions page**: Tailored tips with lifestyle swaps and estimated carbon savings.
 6. **Badge Achievements**: Automatic detection and award pops for First Log, Streaks, and Green Travelers.
+=======
+# Eco-track
+>>>>>>> 995f8c3114a0f70db136e4bf82fbdd86323ea6f3
